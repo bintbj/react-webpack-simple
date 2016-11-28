@@ -1,5 +1,5 @@
 {
-  "name": "deskmark",
+  "name": "react-webpack-simple",
   "version": "1.0.0",
   "description": "an web markdown writer an docs manager based on indexeddb and build on React.",
   "main": "index.js",
